@@ -1,8 +1,10 @@
 Membuat manipulasi gambar dengan web streamlit
 
 berikut hasil nya : 
-![home · Streamlit and 4 more pages - Personal - Microsoft​ Edge 5_9_2024 11_41_38 PM](https://github.com/adamdwidev/uts-pengolahan-citra/assets/165734684/b7af8216-c8e6-49a6-beb2-c98c6a11e282)
+![citra](https://github.com/MohamadAdriaVanza4/pengolahan-citra/assets/115931631/3b95745d-76cb-41ee-bd55-86e7937b3431)
 
-![home · Streamlit and 4 more pages - Personal - Microsoft​ Edge 5_9_2024 11_41_09 PM](https://github.com/adamdwidev/uts-pengolahan-citra/assets/165734684/d4ed9427-b9f2-4190-9702-067a5c49f09b)
+![webm](https://github.com/MohamadAdriaVanza4/pengolahan-citra/assets/115931631/76ada032-a81d-4a99-a7d4-9aa98e698846)
 
-![home · Streamlit and 4 more pages - Personal - Microsoft​ Edge 5_9_2024 11_41_24 PM](https://github.com/adamdwidev/uts-pengolahan-citra/assets/165734684/33863037-6cb8-4938-a98e-26c73c53d13d)
+![webn](https://github.com/MohamadAdriaVanza4/pengolahan-citra/assets/115931631/008c4c14-721b-4bdf-bb27-34ea5e20196b)
+
+![wenb](https://github.com/MohamadAdriaVanza4/pengolahan-citra/assets/115931631/0ea8c2bd-c5bc-4952-bc73-b2ff526cfc38)
